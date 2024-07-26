@@ -11,6 +11,7 @@ Installation Requirements
 
 Git
 Live link
+https://github.com/kinimwa/project-1.git
 
 Technologies used
 
@@ -26,7 +27,7 @@ This project is about an expense tracker that allows users to update ther expenc
 
 Setup
 
-    I have used a local API http://localhost:8000/expenses to go about my project. Ialso created HTML ,CSS,BD.JSON and JAVASCRIPT files whre I have writen my code. Ihave also taken my site live using the following link(https://sammygithaiga.github.io/phase-1-project/)
+    I have used a local API http://localhost:8000/expenses to go about my project. Ialso created HTML ,CSS,BD.JSON and JAVASCRIPT files whre I have writen my code. Ihave also taken my site live using the following link(https://github.com/kinimwa/project-1.git)
 
 WORK ALLIGNMENT
 
