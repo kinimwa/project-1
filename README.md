@@ -1,5 +1,5 @@
 EXPENSE TRACKER
-Date, 2024/25/7
+Date, 2024/25/9
 By john mwaniki
 Description
 
