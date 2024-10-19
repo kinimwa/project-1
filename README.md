@@ -6,6 +6,9 @@ Description
 It's a webpage that shows how web useres can update ther expences and get truck of them to avoid wastege of resources.
 Installation
 
+slide presentation
+https://docs.google.com/presentation/d/19id4pnc1ePBzn2mdcSKBeMbk9XKqb-ESWmCPB5p_ojM/edit?usp=sharing
+
 You use git clone to be able to download the documents in the GitHub
 Installation Requirements
 
